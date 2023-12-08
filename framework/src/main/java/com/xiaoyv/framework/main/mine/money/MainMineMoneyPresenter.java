@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
  * 成都非遗文化 App
  *
  * @author 刘国栋
- * @since 2020/2/8
+ * @since 2023/12/8
  */
 public class MainMineMoneyPresenter implements MainMineMoneyContract.Presenter {
 

@@ -20,7 +20,7 @@ import java.util.List;
  * 成都非遗文化 App
  *
  * @author 刘国栋
- * @since 2020/2/23
+ * @since 2023/12/23
  */
 public class MainFoundVideoDetailsAdapter extends BaseQuickAdapter<FoundCommentBean.FoundComment, BaseViewHolder> implements BaseQuickAdapter.OnItemChildClickListener {
 

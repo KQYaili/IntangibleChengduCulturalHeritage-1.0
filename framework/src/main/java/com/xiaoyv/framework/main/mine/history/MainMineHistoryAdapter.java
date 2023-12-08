@@ -21,7 +21,7 @@ import static com.blankj.utilcode.util.StringUtils.getString;
  * 成都非遗文化 App
  *
  * @author 刘国栋
- * @since 2020/2/23
+ * @since 2023/12/23
  */
 public class MainMineHistoryAdapter extends BaseQuickAdapter<MineHistoryBean.MineHistory, BaseViewHolder> implements BaseQuickAdapter.OnItemChildClickListener {
 

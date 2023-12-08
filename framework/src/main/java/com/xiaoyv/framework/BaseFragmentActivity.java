@@ -8,7 +8,7 @@ import com.blankj.utilcode.util.FragmentUtils;
  * 成都非遗文化 App
  *
  * @author 刘国栋
- * @since 2020/2/8
+ * @since 2023/12/8
  */
 public abstract class BaseFragmentActivity<T extends BaseFragment> extends BaseActivity {
     public T fragment;

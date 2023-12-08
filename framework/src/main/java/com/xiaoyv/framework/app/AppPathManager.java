@@ -11,7 +11,7 @@ import java.io.File;
  * 成都非遗文化 App
  *
  * @author 刘国栋
- * @since 2020/2/11
+ * @since 2023/12/11
  */
 public class AppPathManager {
     private static final String ROOT_PATH = PathUtils.getExternalAppDataPath();
