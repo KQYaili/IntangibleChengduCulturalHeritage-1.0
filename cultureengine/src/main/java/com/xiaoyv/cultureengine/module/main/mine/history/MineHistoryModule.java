@@ -28,7 +28,7 @@ public class MineHistoryModule extends BaseModule {
             if (i % 3 == 0) {
                 item.setName("中国梦");
                 item.setTitle("阿米诺斯");
-                item.setImage("http://img8.zol.com.cn/bbs/upload/21615/21614045.JPG");
+                item.setImage("https://imgcdn.scol.com.cn/NEWS_AB4B0C81FA6F8CB409BB09C65BF366E3.JPG");
             } else if (i % 3 == 1) {
                 item.setName("梦之蓝");
                 item.setTitle("阿黑路西");

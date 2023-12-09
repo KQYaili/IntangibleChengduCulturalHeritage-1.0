@@ -40,11 +40,11 @@ public class HomeItemModule extends BaseModule {
                 item.setHeader("http://img2.imgtn.bdimg.com/it/u=3795630848,1477575400&fm=26&gp=0.jpg");
             } else {
                 item.setAttention(false);
-                item.setBackground("http://img4.imgtn.bdimg.com/it/u=3403496472,3338213390&fm=26&gp=0.jpg");
+                item.setBackground("https://th.bing.com/th/id/R.926c8c77159d03f5c6486a1c97d045ef?rik=sxrU83NG5APIhw&riu=http%3a%2f%2fyouimg1.c-ctrip.com%2ftarget%2ffd%2ftg%2fg4%2fM06%2fFB%2f5D%2fCggYHlYp34iAdCA0ABQblCKwzEE757.jpg&ehk=RKZaWbDJu49oFHPzexg0WcRaj3zLBhHhCgBSsJWSYsg%3d&risl=&pid=ImgRaw&r=0");
                 item.setDesc("大邑县安仁古镇");
                 item.setTitle("安仁古镇，欢迎您");
                 item.setName("荆州");
-                item.setHeader("http://img1.imgtn.bdimg.com/it/u=1718607933,1584052&fm=26&gp=0.jpg");
+                item.setHeader("https://th.bing.com/th/id/R.926c8c77159d03f5c6486a1c97d045ef?rik=sxrU83NG5APIhw&riu=http%3a%2f%2fyouimg1.c-ctrip.com%2ftarget%2ffd%2ftg%2fg4%2fM06%2fFB%2f5D%2fCggYHlYp34iAdCA0ABQblCKwzEE757.jpg&ehk=RKZaWbDJu49oFHPzexg0WcRaj3zLBhHhCgBSsJWSYsg%3d&risl=&pid=ImgRaw&r=0");
             }
             homeItems.add(item);
         }

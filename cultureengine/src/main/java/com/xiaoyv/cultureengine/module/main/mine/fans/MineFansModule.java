@@ -36,7 +36,7 @@ public class MineFansModule extends BaseModule {
                 item.setAttention(false);
                 item.setName("梦之蓝");
                 item.setDesc("奥利安费");
-                item.setHeader("https://img.zcool.cn/community/011199577ddaeb0000012e7ed4b1f8.jpg@1280w_1l_2o_100sh.jpg");
+                item.setHeader("https://pic4.zhimg.com/80/v2-9a5cbf9b6989a91ccc178e035d1e3347_720w.webp");
             } else {
                 item.setName("荆州");
                 item.setAttention(true);

@@ -33,7 +33,7 @@ public class MineAttentionModule extends BaseModule {
             } else if (i % 3 == 1) {
                 item.setName("梦之蓝");
                 item.setDesc("阿黑路西");
-                item.setHeader("https://img.zcool.cn/community/011199577ddaeb0000012e7ed4b1f8.jpg@1280w_1l_2o_100sh.jpg");
+                item.setHeader("https://pic4.zhimg.com/80/v2-9a5cbf9b6989a91ccc178e035d1e3347_720w.webp");
             } else {
                 item.setName("荆州");
                 item.setDesc("一得阁米诺");

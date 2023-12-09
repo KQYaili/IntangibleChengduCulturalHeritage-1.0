@@ -31,11 +31,11 @@ public class MineMessageModule extends BaseModule {
             if (i % 3 == 0) {
                 item.setTitle(type.name() + "：锄禾日当午");
                 item.setName("中国梦");
-                item.setHeader("http://img3.imgtn.bdimg.com/it/u=2747477288,1454412439&fm=26&gp=0.jpg");
+                item.setHeader("https://imgcdn.scol.com.cn/NEWS_AB4B0C81FA6F8CB409BB09C65BF366E3.JPG");
             } else if (i % 3 == 1) {
                 item.setTitle(type.name() + "：唱脸谱，滦州古城");
                 item.setName("梦之蓝");
-                item.setHeader("https://img.zcool.cn/community/011199577ddaeb0000012e7ed4b1f8.jpg@1280w_1l_2o_100sh.jpg");
+                item.setHeader("https://pic4.zhimg.com/80/v2-9a5cbf9b6989a91ccc178e035d1e3347_720w.webp");
             } else {
                 item.setTitle(type.name() + "：大邑县安仁古镇");
                 item.setName("荆州");
